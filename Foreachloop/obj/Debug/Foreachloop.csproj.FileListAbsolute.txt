@@ -1,0 +1,7 @@
+E:\Munia@ite\C#\Foreachloop\bin\Debug\Foreachloop.exe.config
+E:\Munia@ite\C#\Foreachloop\bin\Debug\Foreachloop.exe
+E:\Munia@ite\C#\Foreachloop\bin\Debug\Foreachloop.pdb
+E:\Munia@ite\C#\Foreachloop\obj\Debug\Foreachloop.csprojAssemblyReference.cache
+E:\Munia@ite\C#\Foreachloop\obj\Debug\Foreachloop.csproj.CoreCompileInputs.cache
+E:\Munia@ite\C#\Foreachloop\obj\Debug\Foreachloop.exe
+E:\Munia@ite\C#\Foreachloop\obj\Debug\Foreachloop.pdb
