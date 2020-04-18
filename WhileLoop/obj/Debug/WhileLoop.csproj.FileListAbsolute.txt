@@ -1,0 +1,7 @@
+E:\Munia@ite\C#\WhileLoop\bin\Debug\WhileLoop.exe.config
+E:\Munia@ite\C#\WhileLoop\bin\Debug\WhileLoop.exe
+E:\Munia@ite\C#\WhileLoop\bin\Debug\WhileLoop.pdb
+E:\Munia@ite\C#\WhileLoop\obj\Debug\WhileLoop.csprojAssemblyReference.cache
+E:\Munia@ite\C#\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+E:\Munia@ite\C#\WhileLoop\obj\Debug\WhileLoop.exe
+E:\Munia@ite\C#\WhileLoop\obj\Debug\WhileLoop.pdb
