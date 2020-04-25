@@ -1,0 +1,7 @@
+E:\Munia@ite\C#\Swapping\bin\Debug\Swapping.exe.config
+E:\Munia@ite\C#\Swapping\bin\Debug\Swapping.exe
+E:\Munia@ite\C#\Swapping\bin\Debug\Swapping.pdb
+E:\Munia@ite\C#\Swapping\obj\Debug\Swapping.csprojAssemblyReference.cache
+E:\Munia@ite\C#\Swapping\obj\Debug\Swapping.csproj.CoreCompileInputs.cache
+E:\Munia@ite\C#\Swapping\obj\Debug\Swapping.exe
+E:\Munia@ite\C#\Swapping\obj\Debug\Swapping.pdb
