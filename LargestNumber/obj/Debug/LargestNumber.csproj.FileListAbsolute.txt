@@ -1,0 +1,7 @@
+E:\Munia@ite\C#\LargestNumber\bin\Debug\LargestNumber.exe.config
+E:\Munia@ite\C#\LargestNumber\bin\Debug\LargestNumber.exe
+E:\Munia@ite\C#\LargestNumber\bin\Debug\LargestNumber.pdb
+E:\Munia@ite\C#\LargestNumber\obj\Debug\LargestNumber.csprojAssemblyReference.cache
+E:\Munia@ite\C#\LargestNumber\obj\Debug\LargestNumber.csproj.CoreCompileInputs.cache
+E:\Munia@ite\C#\LargestNumber\obj\Debug\LargestNumber.exe
+E:\Munia@ite\C#\LargestNumber\obj\Debug\LargestNumber.pdb
