@@ -1,0 +1,7 @@
+E:\Munia@ite\C#\AreaOfTriangle\bin\Debug\AreaOfTriangle.exe.config
+E:\Munia@ite\C#\AreaOfTriangle\bin\Debug\AreaOfTriangle.exe
+E:\Munia@ite\C#\AreaOfTriangle\bin\Debug\AreaOfTriangle.pdb
+E:\Munia@ite\C#\AreaOfTriangle\obj\Debug\AreaOfTriangle.csprojAssemblyReference.cache
+E:\Munia@ite\C#\AreaOfTriangle\obj\Debug\AreaOfTriangle.csproj.CoreCompileInputs.cache
+E:\Munia@ite\C#\AreaOfTriangle\obj\Debug\AreaOfTriangle.exe
+E:\Munia@ite\C#\AreaOfTriangle\obj\Debug\AreaOfTriangle.pdb
