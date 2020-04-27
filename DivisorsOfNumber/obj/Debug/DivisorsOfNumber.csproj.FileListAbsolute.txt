@@ -1,0 +1,7 @@
+E:\Munia@ite\C#\DivisorsOfNumber\bin\Debug\DivisorsOfNumber.exe.config
+E:\Munia@ite\C#\DivisorsOfNumber\bin\Debug\DivisorsOfNumber.exe
+E:\Munia@ite\C#\DivisorsOfNumber\bin\Debug\DivisorsOfNumber.pdb
+E:\Munia@ite\C#\DivisorsOfNumber\obj\Debug\DivisorsOfNumber.csproj.CoreCompileInputs.cache
+E:\Munia@ite\C#\DivisorsOfNumber\obj\Debug\DivisorsOfNumber.exe
+E:\Munia@ite\C#\DivisorsOfNumber\obj\Debug\DivisorsOfNumber.pdb
+E:\Munia@ite\C#\DivisorsOfNumber\obj\Debug\DivisorsOfNumber.csprojAssemblyReference.cache
